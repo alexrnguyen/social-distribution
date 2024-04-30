@@ -20,7 +20,7 @@ Key Features
 - Visit a user's profile page to see their posts and follow/unfollow them
 - Connect with users on other social media apps that use the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol
 
-Contributing
+Team Members
 ============
 
 | Name | GitHub Username |
